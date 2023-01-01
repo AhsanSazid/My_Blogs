@@ -1,0 +1,26 @@
+.blog{
+    background-color: palegreen;
+    border: 20px solid red;
+    border-radius: 20px;
+    padding: 20px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+}
+.blog-title{
+    text-align: center;
+    font-size: 2em;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 100;
+} 
+.blog p{
+    text-align: justify;
+}
+.Author-Name{
+    color: red;
+}
+h1{
+    text-align: center; 
+}
